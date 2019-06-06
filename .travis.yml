@@ -1,0 +1,23 @@
+language: node_js
+
+node_js:
+  - 'stable'
+  - '8'
+
+sudo: false
+
+branches:
+  only:
+  - source
+
+install:
+  - yarn install
+
+before_script:
+  - chmod +x ./deploy.sh
+
+script:
+  - yarn deploy
+
+git:
+  depth: 1
