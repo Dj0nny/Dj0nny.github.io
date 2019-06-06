@@ -1,5 +1,8 @@
 import Vue from 'vue'
+import VueCarousel from 'vue-carousel'
 import App from './App.vue'
+
+Vue.use(VueCarousel);
 
 Vue.config.productionTip = false
 

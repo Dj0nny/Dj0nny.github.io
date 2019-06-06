@@ -10,7 +10,8 @@
   "dependencies": {
     "bulma": "^0.7.5",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-carousel": "^0.18.0"
   },
   "homepage": "https://dj0nny.github.io",
   "devDependencies": {
