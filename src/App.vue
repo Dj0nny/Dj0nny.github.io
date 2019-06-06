@@ -7,11 +7,13 @@
 
 <script>
 import Header from './components/Header'
+import Content from './components/Content'
 
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
+    Content
   }
 }
 </script>
