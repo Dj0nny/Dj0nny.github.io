@@ -4,8 +4,9 @@
 
 [![Build Status](https://travis-ci.org/dj0nny/dj0nny.github.io.svg?branch=source)](https://travis-ci.org/dj0nny/dj0nny.github.io) [![npm version](https://badge.fury.io/js/vue.svg)](https://badge.fury.io/js/vue) [![Vue](https://img.shields.io/badge/vue-96.8%25-blue.svg)](https://img.shields.io/badge/vue-96.8%25-blue.svg)
 
-![logo](https://raw.githubusercontent.com/dj0nny/dj0nny.github.io/source/src/assets/logo.png)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/dj0nny/dj0nny.github.io/source/src/assets/logo.png">
+</p>
 
 ## Overview
 
