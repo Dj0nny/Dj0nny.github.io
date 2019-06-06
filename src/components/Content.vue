@@ -3,7 +3,7 @@
     <div class="columns bio">
       <div class="column is-12">
         Hi-Oh! I'm 23 years old dude that lives in Jesolo, near Venice, Italy. I'm studing CS at Padua University and I'm working as Web Developer.<br>
-        Love HTML, CSS and Javascript. I'm a Vue.js enthusiast and a Drupal man
+        Love HTML, CSS and Javascript. I'm a Vue.js enthusiast and a Drupal man.
       </div>
     </div>
     <div class="columns skills">
