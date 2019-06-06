@@ -2,7 +2,8 @@
   <div class="container main-content">
     <div class="columns bio">
       <div class="column is-12">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum eveniet architecto, corporis nam autem incidunt quisquam consequatur, nisi quibusdam, esse voluptas atque ratione tempore consectetur iure modi? Commodi, corporis ad!
+        Hi-Oh! I'm 23 years old dude that lives in Jesolo, near Venice, Italy. I'm studing CS at Padua University and I'm working as Web Developer.<br>
+        Love HTML, CSS and Javascript. I'm a Vue.js enthusiast and a Drupal man
       </div>
     </div>
     <div class="columns skills">
