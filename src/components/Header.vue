@@ -6,10 +6,11 @@
           <img src="https://raw.githubusercontent.com/dj0nny/dj0nny.github.io/source/src/assets/logo.png" id="logo">
         </div>
         <div class="column is-8 social">
-          <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-          <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-          <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
-          <a href="#" target="_blank"><i class="fa fa-github"></i></a>
+          <a href="https://www.facebook.com/francesco.giambruno.9" target="_blank"><i class="fa fa-facebook"></i></a>
+          <a href="https://twitter.com/Dj0nny96" target="_blank"><i class="fa fa-twitter"></i></a>
+          <a href="https://www.instagram.com/francesco_giambruno/" target="_blank"><i class="fa fa-instagram"></i></a>
+          <a href="https://github.com/Dj0nny" target="_blank"><i class="fa fa-github"></i></a>
+          <a href="mailto:francesco.giambruno96@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
         </div>
       </div>
     </div>
