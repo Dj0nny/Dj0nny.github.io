@@ -52,6 +52,14 @@ export default {
   margin-top: 130px;
   text-align: center;
 
+  @media screen and (max-width: 768px) {
+    margin-top: 190px;
+  }
+
+  @media screen and (max-width: 767px) {
+    margin-top: 145px;
+  }
+
   .skills {
     
     .title {

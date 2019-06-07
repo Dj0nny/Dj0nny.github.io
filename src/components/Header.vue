@@ -43,6 +43,14 @@
 	.social {
 		margin-top: 15px;
 
+    @media screen and (max-width: 768px) {
+      margin-top: 0px;
+    }
+    
+    @media screen and (max-width: 767px) {
+      margin-top: 0px;
+    }
+
 		i {
 			margin-right: 20px;
 			color: #284b63;
