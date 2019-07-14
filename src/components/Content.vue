@@ -11,23 +11,19 @@
         <h1 class="title is-3">Skills</h1>
         <hr>
         <div class="skill languages">
-          <h3 class="title is-3">Languages</h3>
+          <h3 class="title is-4">Languages</h3>
           <SkillsSlider type="languages"></SkillsSlider>
         </div>
-        <div class="skill css-frameworks">
-          <h3 class="title is-3">CSS Frameworks</h3>
-          <SkillsSlider type="css-frameworks"></SkillsSlider>
-        </div>
         <div class="skill js-frameworks">
-          <h3 class="title is-3">Javascript Frameworks</h3>
-          <SkillsSlider type="js-frameworks"></SkillsSlider>
+          <h3 class="title is-4">Frameworks</h3>
+          <SkillsSlider type="frameworks"></SkillsSlider>
         </div>
         <div class="skill dbms">
-          <h3 class="title is-3">Database Management System</h3>
+          <h3 class="title is-4">Database Management System</h3>
           <SkillsSlider type="dbms"></SkillsSlider>
         </div>
         <div class="skill cms">
-          <h3 class="title is-3">Content Management System</h3>
+          <h3 class="title is-4">Content Management System</h3>
           <SkillsSlider type="cms"></SkillsSlider>
         </div>
       </div>
