@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <div class="container">
       <Header></Header>
+    <b-container>
       <Content></Content>
-    </div>
+    </b-container>
   </div>
 </template>
 
@@ -25,7 +25,15 @@ export default {
 
 body {
   font-family: 'Montserrat' !important;
-  overflow: hidden;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
 }
 </style>
 

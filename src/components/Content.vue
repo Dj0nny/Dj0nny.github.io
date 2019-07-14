@@ -1,49 +1,29 @@
 <template>
-  <div class="container main-content">
-    <div class="columns bio">
-      <div class="column is-12">
-        Hi-Oh! I'm 23 years old dude that lives in Jesolo, near Venice, Italy. I'm studing CS at Padua University and I'm working as Web Developer.<br>
-        Love HTML, CSS and Javascript. I'm a Vue.js enthusiast and a Drupal man.
-      </div>
+  <div class="main-content">
+    <div class="bio">
+      <Bio></Bio>
     </div>
-    <div class="columns skills">
-      <div class="column is-12">
-        <h1 class="title is-3">Skills</h1>
-        <hr>
-        <div class="skill languages">
-          <h3 class="title is-4">Languages</h3>
-          <SkillsSlider type="languages"></SkillsSlider>
-        </div>
-        <div class="skill js-frameworks">
-          <h3 class="title is-4">Frameworks</h3>
-          <SkillsSlider type="frameworks"></SkillsSlider>
-        </div>
-        <div class="skill dbms">
-          <h3 class="title is-4">Database Management System</h3>
-          <SkillsSlider type="dbms"></SkillsSlider>
-        </div>
-        <div class="skill cms">
-          <h3 class="title is-4">Content Management System</h3>
-          <SkillsSlider type="cms"></SkillsSlider>
-        </div>
-      </div>
+    <div class="skills">
+      <Skills></Skills>
     </div>
   </div>
 </template>
 
 <script>
-import SkillsSlider  from './SkillsSlider'
+import Bio from './Bio'
+import Skills from './Skills'
 
 export default {
   name: 'Content',
   components: {
-    SkillsSlider
+    Bio,
+    Skills
   }
 }
 </script>
 
 
-<style lang="scss" scoped>
+<style lang="scss">
 .main-content {
   margin-top: 130px;
   text-align: center;
@@ -56,12 +36,15 @@ export default {
     margin-top: 145px;
   }
 
+  .bio {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
   .skills {
-    
-    .title {
+    .skill-title, .title {
       margin-bottom: 40px;
     }
-
     .skill {
       margin-top: 50px;
       margin-bottom: 50px;
