@@ -11,6 +11,10 @@
         <h3 class="skill-title">Frameworks</h3>
         <SkillsSlider type="frameworks"></SkillsSlider>
       </div>
+      <div class="tech">
+        <h3 class="skill-title">Web Technologies</h3>
+        <SkillsSlider type="tech"></SkillsSlider>
+      </div>
       <div class="skill dbms">
         <h3 class="skill-title">Database Management System</h3>
         <SkillsSlider type="dbms"></SkillsSlider>
