@@ -15,7 +15,7 @@ This is my personal portfolio built using Vue.js, Bulma and SCSS
 ## Built With
 
 * [Vue.js](https://vuejs.org/) - A modern Javascript framework
-* [Bulma](http://bulma.io) - CSS flexbox-based framework
+* [Bootstrap-Vue](https://bootstrap-vue.js.org/) - Bootstrap integration for Vue.js
 * [SCSS](https://sass-lang.com) - CSS complier
 * [Vue-Carousel](https://ssense.github.io/vue-carousel/) - Carousel library for Vue.js
 * [Devicon](https://konpa.github.io/devicon/) - SVG logos libary
